@@ -1,0 +1,17 @@
+.bannerHead{
+    background-image: url('../../public/img/banner2.jpg');
+}
+.bannerContent{
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    padding-top: 25px;
+    justify-content: space-around;
+}
+.tagLine{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    height: 40%;
+}
